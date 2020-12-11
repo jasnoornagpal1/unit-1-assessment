@@ -1,0 +1,26 @@
+.app {
+    display: flex; 
+ 	justify-content: center;  
+ 	align-items: center;
+}
+div > button{
+    padding: 15px;
+    font-size: 10px;
+}
+div > button.hover {
+    background-color: white;
+    color: darkgray;
+}
+
+div > input {
+    padding: 13px;
+    text-align: center;
+    font-size: 13px;
+}
+h1{
+    text-align: center;
+}
+.btn.hover {
+    background-color: white;
+    color: darkgray;
+}
